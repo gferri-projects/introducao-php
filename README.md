@@ -1,5 +1,5 @@
 # Introdução a linguagem de programação PHP (Hypertext Preprocessor)
-------------------------------------
+
 c:/xampp/htdocs - arquivos php devem ficar neste caminho 
 
 http://localhost/nomedoarquivo/ - executar arquivos php
